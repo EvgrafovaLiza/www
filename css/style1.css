@@ -71,6 +71,28 @@ header{
 	padding:1%;
 }
 
+#first{
+	display: block;
+	background-color: #C956EA;
+}
+
+#second{
+	display: block;
+	background-color: #FFE954FF;
+}
+
+#third{
+	display: block;
+    background-color: #00FF21FF;
+}
+
+#container{
+	background-color: #C0C0C0FF;
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+}
+
 footer{
 	padding: 1%;
 	border-top: : 2px solid silver;
